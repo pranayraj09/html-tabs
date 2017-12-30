@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tabs</title>
+    <script src="script.js" type="text/javascript"></script>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="wrapper">
+        <p class="header">Tabs with plain HTML,CSS,JS</p>
+        <div class="tab row">
+            <button class="tabLinks active col" onclick="openTab(event, 'Research')" id="defaultOpen"><span class="fa fa-flask fa-gradient fa-3x"></span>Research</button>
+            <button class="tabLinks col" onclick="openTab(event, 'Planning')"><span class="fa fa-calendar  fa-gradient fa-3x"></span>Planning</button>
+            <button class="tabLinks col" onclick="openTab(event, 'Production')"><span class="fa fa-pencil-square-o fa-3x"></span>Production</button>
+            <button class="tabLinks col" onclick="openTab(event, 'Testing')"><span class="fa fa-tasks fa-3x"></span>Testing</button>
+            <button class="tabLinks col" onclick="openTab(event, 'Result')"><span class="fa fa-thumbs-o-up fa-3x"></span>Result</button>
+        </div>
+        <div id="Research" class="tabContent row" style="display: flex">
+            <div class="contentImage">
+                <img id="img1">
+            </div>
+            <div class="contentData">
+                <h3>Research & Analytics</h3>
+                <p>The goal of the research process is to produce new knowledge and deepen understanding of a new subject. We start off with finding the right information.</p>
+                <button>Details</button>
+            </div>
+        </div>
+        <div id="Planning" class="tabContent">
+            <div class="contentImage">
+                <img id="img2">
+            </div>
+            <div class="contentData">
+                <h3>Planning</h3>
+                <p>The goal of the planning process is to plan things and help people start their work on the subject. We start off with finding the right person to plan the project</p>
+                <button>Details</button>
+            </div>
+        </div>
+        <div id="Production" class="tabContent">
+            <div class="contentImage">
+                <img id="img3">
+            </div>
+            <div class="contentData">
+                <h3>Production</h3>
+                <p>The goal of the Production is to publish the pages internally and see how it satisfies the requirement based on the rules and necessity of the business</p>
+                <button>Details</button>
+            </div>
+        </div>
+        <div id="Testing" class="tabContent">
+            <div class="contentImage">
+                <img id="img4">
+            </div>
+            <div class="contentData">
+                <h3>Testing</h3>
+                <p>The goal of the Testing is to send the pages for the testing phase of the project and make people to do different techniques. Testing helps the project better.</p>
+                <button>Details</button>
+            </div>
+        </div>
+        <div id="Result" class="tabContent">
+            <div class="contentImage">
+                <img id="img5">
+            </div>
+            <div class="contentData">
+                <h3>Result</h3>
+                <p>Finally, Result will be sent out to the business or requester. Business will be performing random tests to cross check the satisfactory rating the application.</p>
+                <button>Details</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
