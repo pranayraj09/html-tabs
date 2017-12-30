@@ -3,28 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="488c6317-d1d2-4a93-b2ae-0b9a2d94de02" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/styles.css" afterPath="$PROJECT_DIR$/styles.css" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,8 +18,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="105">
+              <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -101,9 +80,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/script.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/styles.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -114,8 +93,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="116" />
-    <option name="y" value="89" />
+    <option name="x" value="24" />
+    <option name="y" value="88" />
     <option name="width" value="1505" />
     <option name="height" value="890" />
   </component>
@@ -286,15 +265,15 @@
       <workItem from="1514662999466" duration="4000" />
       <workItem from="1514663033823" duration="2911000" />
       <workItem from="1514669024944" duration="134000" />
-      <workItem from="1514669304007" duration="553000" />
+      <workItem from="1514669304007" duration="1029000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14798000" />
+    <option name="totallyTimeSpent" value="15274000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="116" y="89" width="1505" height="890" extended-state="0" />
+    <frame x="24" y="88" width="1505" height="890" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -533,14 +512,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -549,10 +520,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state relative-caret-position="105">
+          <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
